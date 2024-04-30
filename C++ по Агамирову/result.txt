@@ -1,0 +1,19 @@
+X2: 14.483830  |  Critical X2: 5.991465
+
+Null hypothesis of homogeneity of variances rejected. Variances are not equal
+
+---------------------------------------------------------------------------------------------------------------------------------
+X2: 5.705476  |  Critical X2: 5.991465
+
+Null hypothesis of homogeneity of variances confirmed
+---------------------------------------------------------------------------------------------------------------------------------
+X2: 12.686209  |  Critical X2: 5.991465
+
+Null hypothesis of homogeneity of variances rejected. Variances are not equal
+
+---------------------------------------------------------------------------------------------------------------------------------
+X2: 9.279198  |  Critical X2: 5.991465
+
+Null hypothesis of homogeneity of variances rejected. Variances are not equal
+
+---------------------------------------------------------------------------------------------------------------------------------
